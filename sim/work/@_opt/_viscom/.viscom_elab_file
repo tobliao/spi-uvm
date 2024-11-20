@@ -1,0 +1,1 @@
+/auto/edatools/mentor/questasim/v2024.3/questasim/linux/VisualizerRls/bin/viscom -nolock -quiet -jmem_size 55640256 work.spi_top1 -quiet -auto_acc_if_foreign -work work +acc -allow_unnamed -o _opt -id 1-000ae431a4f1-673c7316-42c85-33cd9f +__betafsm

@@ -1,0 +1,19 @@
+BEGIN 3:slave_if:fast__2:work
+    miso_pad_i :  1:spi_top1:fast:work
+    mosi_pad_o :  1:spi_top1:fast:work
+    sclk :  1:spi_top1:fast:work
+    ss_pad_o :  1:spi_top1:fast:work
+END 
+BEGIN 3:master_if:fast__2:work
+    int_o :  1:spi_top1:fast:work
+    dat_o :  1:spi_top1:fast:work
+    err_o :  1:spi_top1:fast:work
+    dat_i :  1:spi_top1:fast:work
+    adr_i :  1:spi_top1:fast:work
+    ack_o :  1:spi_top1:fast:work
+    rst_i :  1:spi_top1:fast:work
+    cyc_i :  1:spi_top1:fast:work
+    stb_i :  1:spi_top1:fast:work
+    we_i :  1:spi_top1:fast:work
+    sel_i :  1:spi_top1:fast:work
+END 
